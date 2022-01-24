@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Todo List E6</string>
+    <string name="my_todo_lists">My Todo Lists</string>
+    <string name="search">Search</string>
+    <string-array name="sorting_options">
+        <item>Newest</item>
+        <item>Alphabetical</item>
+    </string-array>
+    <string name="add">+</string>
+    <string name="todo">todo</string>
+    <string name="doing">doing</string>
+    <string name="done">done</string>
+    <string name="delete">delete</string>
+</resources>
